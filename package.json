@@ -1,0 +1,14 @@
+{
+  "name": "docker-compose-express-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/uwinkler/docker-compose-express-test.git",
+  "author": "uwinkler <uli.winkler@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
